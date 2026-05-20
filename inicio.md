@@ -1,20 +1,40 @@
 # Guia Lino Junior
+> ##### ***Configuração de Software***
 
-##### ***Configuração de Software***
-Esse repositorio apresenta meu conhecimento sobre configurações de software.
+Se precisar consultar o [Markdown](https://www.markdownguide.org/basic-syntax/#links).
 
-## Linux
-### Comandos básicos do Linux
+> # Disciplina Configuração de Software
+
+ [Acessar Linux](#Linux)
+
+ [Acessar Windows](#Windows)
+
+ [Acessar Informações Complementares](#Complementares)
+
+
+
+  Este repositório apresenta meu conhecimento sobre configurações de software.
+
+> ### Linux
+> 
+  ###### Comandos básicos do Linux
+  
 - sudo apt install x (instala o programa x)
+    
 - sudo apt update (buscar atualizações)
+    
 - sudo apt search (procurar programas/pacotes)
+- 
+[voltar para o topo](#Software)
 
-## Windows
-### Comandos básicos do Windows
-- executar + msconfig (acessar os progrmamas que são inicializados junto com o Windows)
+> ## Windows
+> 
+  ###### Comandos básicos do Windows
+ 
 
-## Informações Complementares
+[voltar para o topo](#Configuração)
 
+> ## Informações Complementares
 
-
-
+adicionar informações complemetares
+[voltar para o topo](#Disciplina)
